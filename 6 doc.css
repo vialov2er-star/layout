@@ -1,0 +1,109 @@
+.header {
+	background-color: mistyrose;
+	width: 90%;
+	height: 20%;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.nav{
+	background-color: rosybrown;
+	width: 10%;
+	height: 100%;
+	top: 0px;
+	right: 0px;
+	position: absolute;
+}
+
+.footer{
+	background-color: lavenderblush;
+	width: 90%;
+	height: 5%;
+	bottom: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.aside{
+	background-color: lightpink;
+	width: 15%;
+	height: 75%;
+	top: 20%;
+	bottom: 5%;
+	left: 75%;
+	right: 10%;
+	position: absolute;
+}
+
+.sec1{
+	background-color: palevioletred;
+	width: 18%;
+	height: 36%;
+	top: 21%;
+	left: 0px;
+	position: absolute;
+}
+
+.sec2{
+	background-color: lightcoral;
+	width: 18%;
+	height: 36%;
+	top: 21%;
+	left: 19%;
+	position: absolute;
+}
+
+.sec3 {
+	background-color: pink;
+	width: 18%;
+	height: 36%;
+	top: 21%;
+	left: 38%;
+	position: absolute;
+}
+
+.sec4 {
+	background-color: salmon;
+	width: 18%;
+	height: 36%;
+	top: 21%;
+	left: 57%;
+	position: absolute;
+}
+
+.sec5{
+	background-color: pink;
+	width: 18%;
+	height: 36%;
+	top: 58%;
+	left: 0px;
+	position: absolute;
+}
+
+.sec6{
+	background-color: salmon;
+	width: 18%;
+	height: 36%;
+	top: 58%;
+	left: 19%;
+	position: absolute;
+}
+
+.sec7{
+	background-color: lightcoral;
+	width: 18%;
+	height: 36%;
+	top: 58%;
+	left: 38%;
+	position: absolute;
+}
+
+.sec8{
+	background-color: palevioletred;
+	width: 18%;
+	height: 36%;
+	top: 58%;
+	left: 57%;
+	position: absolute;
+}
